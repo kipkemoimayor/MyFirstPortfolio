@@ -103,7 +103,7 @@ footer{
 }
 .cards{
   float: right;
-  width:25%;
+  width:26%;
   /*background-color: #8445;*/
   margin: 2px;
 
@@ -115,6 +115,7 @@ color: #245;
   background-color: #FFEFD5;
   border: 1px solid #FFFFF0;
   box-shadow: 3px 3px 5px rgb(54,68,41);
+  width: auto;
 }
 .links a{
   display: block;
@@ -137,4 +138,5 @@ color: #245;
   background-color: #FFEFD5;
   border: 1px solid #FFFFF0;
   box-shadow: 3px 3px 5px rgb(54,68,41);
+  width: auto;
 }
