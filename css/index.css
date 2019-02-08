@@ -104,12 +104,17 @@ footer{
 .cards{
   float: right;
   width:25%;
-  background-color: #8445;
+  /*background-color: #8445;*/
   margin: 2px;
 
 }
 .links h4{
 color: #245;
+}
+.links{
+  background-color: #FFEFD5;
+  border: 1px solid #FFFFF0;
+  box-shadow: 3px 3px 5px rgb(54,68,41);
 }
 .links a{
   display: block;
@@ -119,6 +124,17 @@ color: #245;
   text-decoration: none;;
 
 }
+.links a:hover{
+  text-decoration: underline;;
+  color: black;
+  transition: 300ms;
+}
 .Contacts h4{
 color: #245;
+}
+.Contacts{
+  margin: 5px;
+  background-color: #FFEFD5;
+  border: 1px solid #FFFFF0;
+  box-shadow: 3px 3px 5px rgb(54,68,41);
 }
