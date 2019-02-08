@@ -39,3 +39,17 @@ nav a:hover{
   transition: 300ms;
   color: #DB7093;
 }
+.about{
+  width: 70%;
+  border: 1px solid #D8BFD8;
+  height: auto;
+  margin: 5px;
+}
+.about img{
+  height: 300px;
+  width: 40%;
+  float: left;
+  margin: 2px;
+  border: 1px solid white;
+  border-radius: 100px;
+}
