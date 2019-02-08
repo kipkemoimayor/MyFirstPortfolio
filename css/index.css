@@ -1,0 +1,24 @@
+#intro {
+  background-image: url(images/circuit.png);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 12em;
+  width: auto;
+  background-color: #B0C4DE;
+  margin-top: -5px;
+}
+#up{
+  width: 30%;
+  padding: 15px;
+  height: auto;
+  background-color: #D3D3D3;
+  position: relative;
+  top: -15px;
+  margin-left: 10px;
+  color: #000080;
+
+}
+#up:hover{
+    color: #800000;
+}
