@@ -15,7 +15,7 @@ Right about now there is an issue with its responsiveness but in the future it i
 * JavaSCript
 * HTML5
 * CSS
-## You can view active website here https://kipkemoimayor.github.io/MyPortFolio
+## You can view active website here https://kipkemoimayor.github.io/MyFirstPortfolio/
 ## Support and contact details
 get me at collinskipkemoi24@gmail.com
 ### License
