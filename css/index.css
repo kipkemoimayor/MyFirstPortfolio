@@ -46,6 +46,7 @@ nav a:hover{
   margin: 5px;
   background-color: #F5F5F5;
   font-family: sans-serif;
+  display: inline-block;
 }
 .about img{
   height: 200px;
@@ -84,6 +85,7 @@ footer{
 .body a:hover{
   color:#DB7093;
   text-transform: 300ms;
+  background-color: #5412;
 
 }
 /*.body a:visited{
@@ -91,4 +93,11 @@ footer{
 }*/
 .body h3{
   color: #687;
+}
+.cards{
+  float: right;
+  width:25%;
+  background-color: #8445;
+
+
 }
