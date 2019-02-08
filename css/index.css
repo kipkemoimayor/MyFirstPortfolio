@@ -44,12 +44,21 @@ nav a:hover{
   border: 1px solid #D8BFD8;
   height: auto;
   margin: 5px;
+  background-color: #F5F5F5;
+  font-family: sans-serif;
 }
 .about img{
-  height: 300px;
-  width: 40%;
+  height: 200px;
+  width: 30%;
   float: left;
   margin: 2px;
   border: 1px solid white;
   border-radius: 100px;
+}
+.about  h4,ul,p{
+margin: 20px;
+}
+.about h4,h2{
+  color: #4682B4;
+
 }
