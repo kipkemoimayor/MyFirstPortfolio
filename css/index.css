@@ -15,8 +15,8 @@
   background-color: #D3D3D3;
   position: relative;
   top: -15px;
-  margin-left: 10px;
-  color: #000080;
+  margin-left: 9em;
+  color: #567456;
 
 }
 #up:hover{
@@ -54,6 +54,7 @@ nav a:hover{
   margin: 2px;
   border: 1px solid white;
   border-radius: 20px;
+  background-color: #1254;
 }
 .about  h4,ul,p{
 margin: 20px;
