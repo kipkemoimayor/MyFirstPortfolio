@@ -65,6 +65,8 @@ margin: 20px;
 .body{
   margin: auto;
   width: 80%;
+  background-color: #F5F5F5;
+  border: 1px solid #D8BFD8;
 }
 .body h2{
   text-align: center;
@@ -77,5 +79,13 @@ footer{
   text-align: center;
   background-color:  #4682B4;
   padding: 3px;
-  
+
 }
+.body a:hover{
+  color:#DB7093;
+  text-transform: 300ms;
+
+}
+/*.body a:visited{
+  color: #841231;
+}*/
