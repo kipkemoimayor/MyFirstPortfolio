@@ -105,6 +105,20 @@ footer{
   float: right;
   width:25%;
   background-color: #8445;
+  margin: 2px;
 
+}
+.links h4{
+color: #245;
+}
+.links a{
+  display: block;
+  text-align: center;
+  line-height: 20px;
+  margin: 3px;
+  text-decoration: none;;
 
+}
+.Contacts h4{
+color: #245;
 }
