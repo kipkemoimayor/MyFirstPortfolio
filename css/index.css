@@ -62,3 +62,20 @@ margin: 20px;
   color: #4682B4;
 
 }
+.body{
+  margin: auto;
+  width: 80%;
+}
+.body h2{
+  text-align: center;
+}
+.body img{
+  height: 400px;
+  width: auto;
+}
+footer{
+  text-align: center;
+  background-color:  #4682B4;
+  padding: 3px;
+  
+}
