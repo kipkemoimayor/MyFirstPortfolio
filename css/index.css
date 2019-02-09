@@ -75,19 +75,19 @@ margin: 20px;
 @media screen and (min-width:500px) {
 .body img{
   height: 500px;
-  width: auto;
+  width: 80%;
   margin: auto;
 }
 @media screen and (max-width:600px) {
   .body img{
     height: 250px;
-    width: auto;
+    width: 80%;
 }
 }
-@media screen and (max-width:400px) {
+@media screen and (max-width:460px) {
   .body img{
-    height: 150px;
-    width: auto;
+    height: 200px;
+    width: 80%;
   }
 
 }
