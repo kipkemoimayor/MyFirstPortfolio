@@ -167,3 +167,6 @@ button a{
 button a:hover{
   color: red;
 }
+#bold{
+  font-weight:bold;
+}
