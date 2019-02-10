@@ -1,5 +1,5 @@
 #intro {
-  background-image: url("images/one.png");
+  background-image: url("circuit.png");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -26,6 +26,7 @@ nav{
   padding: 20px;
   background-color: #4682B4;
   white-space: nowrap;
+  overflow: hidden;
 }
 nav a{
   text-decoration: none;
