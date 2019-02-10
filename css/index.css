@@ -8,6 +8,9 @@
   background-color: #B0C4DE;
   margin-top: -5px;
 }
+body{
+  background-color: #9744;
+}
 #up{
   width: 30%;
   padding: 15px;
@@ -24,7 +27,7 @@
 }
 nav{
   padding: 20px;
-  background-color: #4682B4;
+  background-color: black;
   white-space: nowrap;
   overflow: hidden;
 }
@@ -32,7 +35,6 @@ nav a{
   text-decoration: none;
   padding: inherit;
   color: white;
-  background-color: #191970;
 }
 nav a:hover{
   background-color: #4513;
